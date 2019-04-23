@@ -1,0 +1,72 @@
+
+.float_left{
+  float: left;
+  height: 50vh;
+  width: 45vw;
+  margin-right: 15px;
+  margin-left:30px;
+  margin-top: 20px;
+  margin-bottom:20px;
+
+}
+
+.float_right{
+  float:right;
+  height: 50vh;
+  width: 45vw;
+  margin-right: 15px;
+  margin-left:30px;
+  margin-top: 20px;
+  margin-bottom:20px;
+
+}
+.center{
+  text-align: center;
+  font-size:100px;
+}
+
+.underline {
+  color: #e1b137;
+  text-decoration: #00cccc wavy underline;
+}
+
+.no_margin {
+  margin:0px;
+  font-size:100px;
+}
+
+
+
+.coralheader {
+text-align: center;
+margin:0px;
+
+
+color: white;
+font-size: 300px;
+
+  background: url(https://images.unsplash.com/photo-1515555585025-54136276b6e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80) ;
+
+
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 0px;
+  border:0px;
+}
+
+.margin {
+
+  border-left:200px solid royalblue;
+  border-right: 200px solid royalblue;
+  border-bottom: 150px solid royalblue;
+  border-image: url(https://images.unsplash.com/photo-1515555585025-54136276b6e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)  30 round;
+  font-size: 40px;
+  text-align:center;
+  padding: 0px;
+
+}
+
+
+
+
+
