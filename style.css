@@ -33,6 +33,8 @@
 .no_margin {
   margin:0px;
   font-size:100px;
+  padding:0px;
+  border:0px;
 }
 
 
@@ -63,7 +65,17 @@ font-size: 300px;
   font-size: 40px;
   text-align:center;
   padding: 0px;
+  margin:0px;
+      padding-inline-start: 0px;
 
+}
+
+.border{
+  margin:70px;
+}
+
+.game{
+margin:300px;
 }
 
 
